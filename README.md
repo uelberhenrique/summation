@@ -1,6 +1,13 @@
-##  Seleção de Desenvolvedor de Software - Escribo
+![logoTop](./img_readme/logoTop.png)
 
-#### Teste Técnico
+##  Seleção de Desenvolvedor de Software - Escribo
+O programa receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+
+Exemplo:
+
+Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somatório dos números 3, 5, 6 e 9 que são menores que 10.
+
+#### Instruções
 
  #### 1. Irá abrir a pasta do projeto
    ![folderProject](./img_readme/folderProject.png)
@@ -35,10 +42,12 @@
 
    ## Resultado 
    Windows:
+
    ![resultWindows](./img_readme/resultWindows.png)
    <br />
    
    Linux:
+
    ![resultLinux](./img_readme/resultLinux.png)
    <br />
    
