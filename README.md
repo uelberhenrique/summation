@@ -2,7 +2,7 @@
 ![logoTop](./img_readme/logoTop.png)
 
  ## Seleção de Desenvolvedor de Software - Escribo
-O programa receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+O programa receba um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
 Exemplo:
 
@@ -19,12 +19,14 @@ Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somat
    ![openTerminal](./img_readme/openTerminal.png)
     <br />
  #### 3. Rode o projeto com o comando
+ 
+ ### OBS: caso queria testar outro número, é só substituir onde tem 10 ou 11 pelo número desejado.
    ## Comando no Windows:
     
    Primeiro caso de Teste: 
     
        dart run bin\summation.dart 10
- 
+   
    Segundo caso de Teste:
    
        dart run bin\summation.dart 11
