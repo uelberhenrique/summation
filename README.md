@@ -1,6 +1,7 @@
+
 ![logoTop](./img_readme/logoTop.png)
 
-##  Seleção de Desenvolvedor de Software - Escribo
+ ## Seleção de Desenvolvedor de Software - Escribo)
 O programa receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
 Exemplo:
@@ -9,15 +10,15 @@ Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somat
 
 #### Instruções
 
- #### 1. Irá abrir a pasta do projeto
+ #### 1. Abra a pasta do projeto
  
    ![folderProject](./img_readme/folderProject.png)
     <br />
- #### 2. Vai abrir o terminal na pasta do projeto
+ #### 2. Abra o terminal na pasta do projeto
  
    ![openTerminal](./img_readme/openTerminal.png)
     <br />
- #### 3. Rodar o projeto com o comando
+ #### 3. Rode o projeto com o comando
    ## Comando no Windows:
     
    Primeiro caso de Teste: 
@@ -44,24 +45,11 @@ Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somat
 
    ## Resultado 
    Windows:
-<<<<<<< HEAD
-
-=======
    
->>>>>>> d1130ddacdaa30ef91ab6350c7a716105368c648
    ![resultWindows](./img_readme/resultWindows.png)
    <br />
    
    Linux:
-<<<<<<< HEAD
 
-=======
-   
->>>>>>> d1130ddacdaa30ef91ab6350c7a716105368c648
    ![resultLinux](./img_readme/resultLinux.png)
    <br />
-   
-
-
-
-    
