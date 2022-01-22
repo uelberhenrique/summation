@@ -3,9 +3,11 @@
 #### Teste Técnico
 
  #### 1. Irá abrir a pasta do projeto
+ 
    ![folderProject](./img_readme/folderProject.png)
     <br />
  #### 2. Vai abrir o terminal na pasta do projeto
+ 
    ![openTerminal](./img_readme/openTerminal.png)
     <br />
  #### 3. Rodar o projeto com o comando
@@ -35,10 +37,12 @@
 
    ## Resultado 
    Windows:
+   
    ![resultWindows](./img_readme/resultWindows.png)
    <br />
    
    Linux:
+   
    ![resultLinux](./img_readme/resultLinux.png)
    <br />
    
