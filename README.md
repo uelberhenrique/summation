@@ -10,9 +10,11 @@ Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somat
 #### Instruções
 
  #### 1. Irá abrir a pasta do projeto
+ 
    ![folderProject](./img_readme/folderProject.png)
     <br />
  #### 2. Vai abrir o terminal na pasta do projeto
+ 
    ![openTerminal](./img_readme/openTerminal.png)
     <br />
  #### 3. Rodar o projeto com o comando
@@ -42,12 +44,20 @@ Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somat
 
    ## Resultado 
    Windows:
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> d1130ddacdaa30ef91ab6350c7a716105368c648
    ![resultWindows](./img_readme/resultWindows.png)
    <br />
    
    Linux:
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> d1130ddacdaa30ef91ab6350c7a716105368c648
    ![resultLinux](./img_readme/resultLinux.png)
    <br />
    
